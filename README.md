@@ -6,3 +6,7 @@
 ### Big Sur
 https://andrejacobs.org/electronics/develop-and-debug-raspberry-pi-pico-on-macos-big-sur/
 
+## Utils
+https://freeware.the-meiers.org/
+
+
