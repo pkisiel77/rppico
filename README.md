@@ -8,5 +8,6 @@ https://andrejacobs.org/electronics/develop-and-debug-raspberry-pi-pico-on-macos
 
 ## Utils
 https://freeware.the-meiers.org/
+https://github.com/thonny/thonny
 
 
